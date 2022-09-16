@@ -77,3 +77,7 @@ In this way, the coding occurs in a hierarchical nature, with the main branch be
 A given team members branch will be a self-contained version of the main branch. Any changes can simply be commited and pushed at the users desire. Once the team member is happy with their version of the branch and believe it should be merged with the main branch, then they can submit a pull request.
 
 Within a given branch, the general rile is commit often, but push (or pull request) infrequently. Each commit is treated as a version control, therefore any small changes can be reverted to. As such, if commits are infrequent, then multiple changes may have been made, meaning version control is less useful.
+
+# Extra
+
+Adding text to test PR with branches.
