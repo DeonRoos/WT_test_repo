@@ -78,6 +78,8 @@ A given team members branch will be a self-contained version of the main branch.
 
 Within a given branch, the general rile is commit often, but push (or pull request) infrequently. Each commit is treated as a version control, therefore any small changes can be reverted to. As such, if commits are infrequent, then multiple changes may have been made, meaning version control is less useful.
 
+
 # Extra
 
 Adding text to test PR with branches.
+
