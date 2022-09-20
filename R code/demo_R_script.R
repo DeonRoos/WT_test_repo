@@ -7,3 +7,7 @@ print("can i commit?")
 print(":)")
 
 plot(1:10)
+
+for( i in 1:10){
+  print(i)
+}
