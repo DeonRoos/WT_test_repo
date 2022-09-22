@@ -7,3 +7,5 @@ print("can i commit?")
 paste("Hello Susie")
 
 plot(rnorm(100, 50, 1), rnorm(100, 50, 1))
+
+paste("Hello")
